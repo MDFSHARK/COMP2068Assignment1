@@ -42,10 +42,10 @@
     <Content Include="views\contactme.pug">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="views\footer.pug">
+    <Content Include="views\partials\footer.pug">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="views\header.pug">
+    <Content Include="views\partials\header.pug">
       <SubType>Code</SubType>
     </Content>
     <Content Include="views\index.pug" />
@@ -65,6 +65,7 @@
     <Folder Include="public\stylesheets\" />
     <Folder Include="routes\" />
     <Folder Include="views\" />
+    <Folder Include="views\partials\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
   <ProjectExtensions>

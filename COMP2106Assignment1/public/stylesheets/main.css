@@ -1,8 +1,18 @@
 body {
     padding: 50px;
     font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 30px;
 }
 
 a {
     color: #00B7FF;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p1 {
+    font-size: 100px;
 }
