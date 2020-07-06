@@ -1,3 +1,8 @@
+/*File Name: index.js
+  Author's Name: Mason Ferrie
+  Website Name: Personal Portfolio
+  File Description: Routing to each page on the website
+*/
 'use strict';
 var express = require('express');
 var router = express.Router();
