@@ -1,5 +1,6 @@
 body {
-    padding: 50px;
+    padding-right: 250px;
+    padding-left: 250px;
     font-family: 'Bebas Neue', cursive;
     text-align: center;
     font-size: 30px;
@@ -10,9 +11,7 @@ a {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 50px;
 }
 
-p1 {
-    font-size: 100px;
-}
+
